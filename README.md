@@ -1,8 +1,6 @@
-# Sample Hardhat Project
+# Hardhat Project / Unit Tests
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a Hardhat Ignition module that deploys that contract.
-
-Try running some of the following tasks:
+This Hardhat project includes a basic faucet smart contract with unit tests for each of the contract's functions. 
 
 ```shell
 npx hardhat help
